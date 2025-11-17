@@ -1,4 +1,4 @@
 const second = () => {
 	console.log('second')
 }
-second()
+export default second
